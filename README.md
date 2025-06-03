@@ -86,6 +86,7 @@ To run and evaluate CRN agents, the following packages are required:
 To install all packages:
 ```bash
 pip install -r requirements.txt
+```
 
 ### Supported Cryptocurrencies
 

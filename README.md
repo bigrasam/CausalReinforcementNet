@@ -59,7 +59,7 @@ The CRN framework uses the following input features:
   - `WTI` (Crude Oil Price)
 
 - **Social Media**  
-  - `Daily Tweet Count` (Bitcoin-related tweets)
+  - `Daily Tweet Count` 
 
 > Feature selection is performed using **Bayesian Networks (BNs)**.
 
